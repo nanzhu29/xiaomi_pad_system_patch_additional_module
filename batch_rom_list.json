@@ -1,94 +1,90 @@
 {
-    "Xiaomi Pad 6 Pro": [
-        {
-            "rom": "OS2.0.212.0.VMYCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.212.0.VMYCNXM/liuqin-ota_full-OS2.0.212.0.VMYCNXM-user-15.0-02935b0fa8.zip"
-        },
-        {
-            "rom": "OS2.0.207.0.VMYCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VMYCNXM/liuqin-ota_full-OS2.0.207.0.VMYCNXM-user-15.0-9f8a119635.zip"
-        },
-        {
-            "rom": "OS1.0.14.0.UMYCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.14.0.UMYCNXM/miui_LIUQIN_OS1.0.14.0.UMYCNXM_fee88382c1_14.0.zip"
-        },
-        {
-            "rom": "OS1.0.12.0.UMYCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.12.0.UMYCNXM/miui_LIUQIN_OS1.0.12.0.UMYCNXM_d1f94db059_14.0.zip"
-        }
-    ],
-    "Xiaomi Pad 6S Pro": [
-        {
-            "rom": "OS3.0.0.8.WNXCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.0.8.WNXCNXM/sheng-ota_full-OS3.0.0.8.WNXCNXM-user-16.0-7dd8485234.zip"
-        },
-        {
-            "rom": "OS2.0.211.0.VNXCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.211.0.VNXCNXM/sheng-ota_full-OS2.0.211.0.VNXCNXM-user-15.0-b89bcc4fbf.zip"
-        },
-        {
-            "rom": "OS2.0.209.0.VNXCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VNXCNXM/sheng-ota_full-OS2.0.209.0.VNXCNXM-user-15.0-2071eecc79.zip"
-        },
-        {
-            "rom": "OS1.0.11.0.UNXCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.11.0.UNXCNXM/miui_SHENG_OS1.0.11.0.UNXCNXM_921ff6036a_14.0.zip"
-        }
-    ],
-    "Xiaomi Pad 6 Max": [
-        {
-            "rom": "OS2.0.208.0.VMHCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VMHCNXM/yudi-ota_full-OS2.0.208.0.VMHCNXM-user-15.0-59b246cbcc.zip"
-        }
-    ],
-    "Xiaomi Pad 7": [
-        {
-            "rom": "OS3.0.2.1.WOZCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.2.1.WOZCNXM/uke-ota_full-OS3.0.2.1.WOZCNXM-user-16.0-b4aa6edb42.zip"
-        },
-        {
-            "rom": "OS2.0.208.0.VOZCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VOZCNXM/uke-ota_full-OS2.0.208.0.VOZCNXM-user-15.0-3f41482738.zip"
-        }
-    ],
-    "Xiaomi Pad 7 Pro": [
-        {
-            "rom": "OS3.0.0.21.WOYCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.0.21.WOYCNXM/muyu-ota_full-OS3.0.0.21.WOYCNXM-user-16.0-af3e7768bc.zip"
-        },
-        {
-            "rom": "OS2.0.208.0.VOYCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VOYCNXM/muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip"
-        }
-    ],
-    "Redmi K Pad": [
-        {
-            "rom": "OS3.0.1.2.WAOCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.2.WAOCNXM/turner-ota_full-OS3.0.1.2.WAOCNXM-user-16.0-4d3ec0cbfc.zip"
-        }
-    ],
-    "Xiaomi Pad 6": [
-        {
-            "rom": "OS2.0.13.0.UMZCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.13.0.UMZCNXM/pipa-ota_full-OS2.0.13.0.UMZCNXM-user-14.0-a905ad5ecc.zip"
-        }
-    ],
-    "Xiaomi Pad 5 Pro 12.4": [
-        {
-            "rom": "OS2.0.10.0.ULZCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.10.0.ULZCNXM/dagu-ota_full-OS2.0.10.0.ULZCNXM-user-14.0-041e9e8347.zip"
-        }
-    ],
-    "Redmi Pad": [
-        {
-            "rom": "OS1.0.8.0.ULYCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULYCNXM/miui_YUNLUO_OS1.0.8.0.ULYCNXM_0f98c0db8c_14.0.zip"
-        }
-    ],
-    "Redmi Pad SE": [
-        {
-            "rom": "OS2.0.205.0.VMUCNXM",
-            "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VMUCNXM/xun-ota_full-OS2.0.205.0.VMUCNXM-user-15.0-71122c2c9e.zip"
-        }
-    ]
+  "Xiaomi Pad 6 Pro": [
+    {
+      "rom": "OS3.0.5.0.VMYCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.VMYCNXM/liuqin-ota_full-OS3.0.5.0.VMYCNXM-user-15.0-39685cb85f.zip"
+    },
+    {
+      "rom": "OS2.0.213.0.VMYCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.213.0.VMYCNXM/liuqin-ota_full-OS2.0.213.0.VMYCNXM-user-15.0-c6421e2b8a.zip"
+    },
+    {
+      "rom": "OS1.0.14.0.UMYCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.14.0.UMYCNXM/miui_LIUQIN_OS1.0.14.0.UMYCNXM_fee88382c1_14.0.zip"
+    }
+  ],
+  "Xiaomi Pad 6S Pro": [
+    {
+      "rom": "OS3.0.7.0.WNXCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WNXCNXM/sheng-ota_full-OS3.0.7.0.WNXCNXM-user-16.0-4ff77c1b20.zip"
+    },
+    {
+      "rom": "OS2.0.211.0.VNXCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.211.0.VNXCNXM/sheng-ota_full-OS2.0.211.0.VNXCNXM-user-15.0-b89bcc4fbf.zip"
+    },
+    {
+      "rom": "OS1.0.11.0.UNXCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.11.0.UNXCNXM/miui_SHENG_OS1.0.11.0.UNXCNXM_921ff6036a_14.0.zip"
+    }
+  ],
+  "Xiaomi Pad 6 Max": [
+    {
+      "rom": "OS3.0.3.0.VMHCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.VMHCNXM/yudi-ota_full-OS3.0.3.0.VMHCNXM-user-15.0-77a2cca9fc.zip"
+    },
+    {
+      "rom": "OS2.0.211.0.VMHCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.211.0.VMHCNXM/yudi-ota_full-OS2.0.211.0.VMHCNXM-user-15.0-7bd25509d3.zip"
+    }
+  ],
+  "Xiaomi Pad 7": [
+    {
+      "rom": "OS3.0.8.0.WOZCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.8.0.WOZCNXM/uke-ota_full-OS3.0.8.0.WOZCNXM-user-16.0-b8ab12a445.zip"
+    },
+    {
+      "rom": "OS2.0.208.0.VOZCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VOZCNXM/uke-ota_full-OS2.0.208.0.VOZCNXM-user-15.0-3f41482738.zip"
+    }
+  ],
+  "Xiaomi Pad 7 Pro": [
+    {
+      "rom": "OS3.0.11.0.WOYCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.11.0.WOYCNXM/muyu-ota_full-OS3.0.11.0.WOYCNXM-user-16.0-6b09b32df6.zip"
+    },
+    {
+      "rom": "OS2.0.208.0.VOYCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VOYCNXM/muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip"
+    }
+  ],
+  "Redmi K Pad": [
+    {
+      "rom": "OS3.0.7.0.WAOCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WAOCNXM/turner-ota_full-OS3.0.7.0.WAOCNXM-user-16.0-5d4a648561.zip"
+    }
+  ],
+  "Xiaomi Pad 6": [
+    {
+      "rom": "OS2.0.19.0.UMZCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.19.0.UMZCNXM/pipa-ota_full-OS2.0.19.0.UMZCNXM-user-14.0-e1ea6f0555.zip"
+    }
+  ],
+  "Xiaomi Pad 5 Pro 12.4": [
+    {
+      "rom": "OS2.0.10.0.ULZCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.10.0.ULZCNXM/dagu-ota_full-OS2.0.10.0.ULZCNXM-user-14.0-041e9e8347.zip"
+    }
+  ],
+  "Redmi Pad": [
+    {
+      "rom": "OS1.0.8.0.ULYCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULYCNXM/miui_YUNLUO_OS1.0.8.0.ULYCNXM_0f98c0db8c_14.0.zip"
+    }
+  ],
+  "Redmi Pad SE": [
+    {
+      "rom": "OS2.0.207.0.VMUCNXM",
+      "url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VMUCNXM/xun-ota_full-OS2.0.207.0.VMUCNXM-user-15.0-bd0b02abd3.zip"
+    }
+  ]
 }
