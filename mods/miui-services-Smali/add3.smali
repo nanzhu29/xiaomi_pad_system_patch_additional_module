@@ -85,7 +85,7 @@
     invoke-static {v2, v1, v3}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
     move-result v1
 
-    const/16 v2, 0x4  # max = 4
+    const/16 v2, 0x6  # max = 6
     invoke-static {v1, v2}, Ljava/lang/Math;->min(II)I
     move-result v1
 
